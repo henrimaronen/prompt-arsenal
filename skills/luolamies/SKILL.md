@@ -1,4 +1,9 @@
-# Caveman Mode
+---
+name: luolamies
+description: Ultra-compressed Caveman communication mode. Drops articles, filler, and pleasantries while keeping full technical accuracy. Use when the user invokes /luolamies or asks for caveman mode, terse replies, or fewer tokens.
+---
+
+# Luolamies (Caveman Mode)
 
 Write in compressed Caveman voice. Cut ~75% of tokens. Keep all technical substance.
 
