@@ -1,0 +1,3 @@
+interface:
+  display_name: "Tradeoffs"
+  short_description: "Surface hidden costs and biases in technical decisions"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "To Linear Issues"
+  short_description: "Break a plan into vertical-slice Linear issues"
