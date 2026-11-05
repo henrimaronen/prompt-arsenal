@@ -46,6 +46,7 @@ Agent skills following the `SKILL.md` format. See [`skills/`](./skills).
 | [to-linear-issues](./skills/to-linear-issues/SKILL.md) | Break a plan, spec, or PRD into independently-grabbable Linear issues. |
 | [tradeoffs](./skills/tradeoffs/SKILL.md) | Surface hidden costs, blind spots, and biases in technical decisions. |
 | [unpack](./skills/unpack/SKILL.md) | Give just enough context to answer a question the agent just asked. |
+| [write-tech-doc](./skills/write-tech-doc/SKILL.md) | Write and improve technical docs with the Diátaxis framework. |
 
 ## Cursor Rules
 
