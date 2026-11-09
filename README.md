@@ -70,6 +70,7 @@ Agent skills following the `SKILL.md` format, grouped by category. See [`skills/
 
 | Skill | Description |
 |---|---|
+| [deep](./skills/experimental/deep/SKILL.md) | Rewrite a prompt into a deeper version of the task, the way a top professional would approach it. |
 | [luolamies](./skills/experimental/luolamies/SKILL.md) | Ultra-compressed Caveman mode that keeps full technical accuracy. |
 
 ## Cursor Rules

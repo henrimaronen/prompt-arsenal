@@ -32,4 +32,5 @@
 
 | Skill | Description |
 |---|---|
+| [deep](./experimental/deep/SKILL.md) | Rewrite a prompt into a deeper version of the task, the way a top professional would approach it. |
 | [luolamies](./experimental/luolamies/SKILL.md) | Ultra-compressed Caveman communication mode that keeps full technical accuracy. |

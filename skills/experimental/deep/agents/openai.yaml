@@ -1,0 +1,3 @@
+interface:
+  display_name: "Deep"
+  short_description: "Rewrite a prompt into a deeper version of the task"
