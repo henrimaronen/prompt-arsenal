@@ -1,0 +1,3 @@
+interface:
+  display_name: "Small Steps"
+  short_description: "Break a project into small steps with done-checks"
