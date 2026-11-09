@@ -36,17 +36,41 @@ prompt-arsenal/
 
 ## Skills
 
-Agent skills following the `SKILL.md` format. See [`skills/`](./skills).
+Agent skills following the `SKILL.md` format, grouped by category. See [`skills/`](./skills).
+
+### Engineering
 
 | Skill | Description |
 |---|---|
-| [humanize](./skills/humanize/SKILL.md) | Define human-readable output and how to write it for summaries, plans, and reports. |
-| [luolamies](./skills/luolamies/SKILL.md) | Ultra-compressed Caveman communication mode that keeps full technical accuracy. |
-| [prd-writer](./skills/prd-writer/SKILL.md) | Generate a lean, downloadable PRD from a feature or product idea. |
-| [to-linear-issues](./skills/to-linear-issues/SKILL.md) | Break a plan, spec, or PRD into independently-grabbable Linear issues. |
-| [tradeoffs](./skills/tradeoffs/SKILL.md) | Surface hidden costs, blind spots, and biases in technical decisions. |
-| [unpack](./skills/unpack/SKILL.md) | Give just enough context to answer a question the agent just asked. |
-| [write-tech-doc](./skills/write-tech-doc/SKILL.md) | Write and improve technical docs with the Diátaxis framework. |
+| [code-review](./skills/engineering/code-review/SKILL.md) | Review changes for standards, spec, tests, and edge cases in parallel. |
+| [prd-writer](./skills/engineering/prd-writer/SKILL.md) | Generate a lean, downloadable PRD from a feature or product idea. |
+| [to-linear-issues](./skills/engineering/to-linear-issues/SKILL.md) | Break a plan, spec, or PRD into independently-grabbable Linear issues. |
+| [write-tech-doc](./skills/engineering/write-tech-doc/SKILL.md) | Write and improve technical docs with the Diátaxis framework. |
+
+### Thinking
+
+| Skill | Description |
+|---|---|
+| [tradeoffs](./skills/thinking/tradeoffs/SKILL.md) | Surface hidden costs, blind spots, and biases in technical decisions. |
+| [unpack](./skills/thinking/unpack/SKILL.md) | Give just enough context to answer a question the agent just asked. |
+
+### Productivity
+
+| Skill | Description |
+|---|---|
+| [small-steps](./skills/productivity/small-steps/SKILL.md) | Break a project into small, ordered steps with clear done-checks. |
+
+### Writing
+
+| Skill | Description |
+|---|---|
+| [humanize](./skills/writing/humanize/SKILL.md) | Define human-readable output for summaries, plans, and reports. |
+
+### Experimental
+
+| Skill | Description |
+|---|---|
+| [luolamies](./skills/experimental/luolamies/SKILL.md) | Ultra-compressed Caveman mode that keeps full technical accuracy. |
 
 ## Cursor Rules
 
